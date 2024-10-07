@@ -1,7 +1,9 @@
 ESTE ES EL TITULO
+este es el indice
 este es el primer parrafo
 este es el segundo parrafo
 este es el tercer parrafo
 este es el quinto parrafo
 este es el sexto parrafo
-este es l septimo parrafo
+este es el septimo parrafo
+
